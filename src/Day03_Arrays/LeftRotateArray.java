@@ -1,4 +1,4 @@
-package day03_Arrays;
+package Day03_Arrays;
 import java.util.*;
 public class LeftRotateArray {
     public static void main(String args[])
