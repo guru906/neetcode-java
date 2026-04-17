@@ -32,6 +32,7 @@ public class unionTwoPointer {
 
         // remaining elements of a[]
         while (i < a.length) {
+
             if (union.size() == 0 || union.get(union.size() - 1) != a[i]) {
                 union.add(a[i]);
             }
